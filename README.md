@@ -7,7 +7,7 @@ An embedded systems project developed for my Computer Engineering Seminar at UMa
 
 
 ## Engineering Challenge
-The primary challenge of this project was managing **atmospheric noise** and **sensor jitter**. Barometric pressure fluctuates constantly; a simple "if altitude > 5" check would cause the LED to flicker rapidly. 
+The primary challenge of this project was managing **atmospheric noise** and **sensor jitter**. Barometric pressure fluctuates constantly; a simple "if altitude > 5" check would cause the LED light up. 
 
 ### Solutions Implemented:
 - **Baseline Calibration:** On startup, the system takes 50 samples to establish a stable "ground level" reference point.
