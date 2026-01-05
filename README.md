@@ -1,6 +1,6 @@
 # Altitude Threshold Alert System 
 
-![Physical Circuit Setup](./images/arduino-altitude-hardware.jpg)
+![Physical Circuit Setup](arduino-altitude-hardware.jpg)
 
 ## Overview
 An embedded systems project developed for my Computer Engineering Seminar at UMass Amherst. This system utilizes a BMP180 barometric pressure sensor to track relative altitude changes and triggers a physical LED alert when a 5-foot vertical threshold is surpassed.
